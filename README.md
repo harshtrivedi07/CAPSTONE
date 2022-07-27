@@ -2,7 +2,7 @@
 # Development of ML models to predict client emotions based on facial expressions and audio input in various online meeting platforms.
 
 # Introduction
-We are students from St. Clair College, Group 6, we have undertaken project from CogniXR, in which we have to build and deploy models on their existing website using API which will help them predict the emotions of the clients based on their facial expression and audio input. They will be using this project on their exsiting website to predict the emotions of their clients from the theraphy sessions.
+The aim of this project is to build a machine learning model which can predict the emotions of a person based on the facial expression and speech of that person and then deploying this model on the webpage of CogniXR health. CogniXR health is start-up which provides telehealth services. In this project we have build 2 separate models which can predict the emotion of the person. One model will used to predict the emotions from the image while the other one will be used to predict the emotion from the speech of the person.  
 
 # Models used for predicting emotion from facial expressions
 - Used VGG16 with imagenet weights
