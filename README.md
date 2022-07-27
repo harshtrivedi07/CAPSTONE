@@ -1,4 +1,4 @@
-# CAPSTONE
+# CAPSTONE-PROJECT
 # Development of ML models to predict client emotions based on facial expressions and audio input in various online meeting platforms.
 
 # Introduction
